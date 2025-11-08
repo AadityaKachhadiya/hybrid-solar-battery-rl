@@ -7,7 +7,7 @@
 
 ## Overview
 This project implements and evaluates a hybrid Reinforcement Learning (RL) and Linear Regression (LR) forecast-based controller for solar battery scheduling.  
-The goal is to improve solar energy utilization and minimize grid energy dependence in solar-plus-storage systems using real-world data from an operational solar plant in India.  
+The goal is to improve solar energy utilization and minimize grid energy dependence in solar-plus-storage systems by developing a controller that optimizes battery charging and discharging using real-world data from an operational solar plant in India. 
 
 ---
 
@@ -86,11 +86,13 @@ Building on current results, further testing will include both solar plants and 
 ---
 
 ## Requirements
-Python ≥ 3.10
-pandas
-numpy
-matplotlib
-scikit-learn
 
+- Python ≥ 3.10  
+- pandas  
+- numpy  
+- matplotlib  
+- scikit-learn
+
+---
 © 2025 Solaris Nexus Team (Aaditya L. Kachhadiya and collaborators)
 MIT License
