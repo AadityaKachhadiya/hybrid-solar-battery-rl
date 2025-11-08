@@ -1,7 +1,7 @@
-<img width="1710" height="1170" alt="download (1)" src="https://github.com/user-attachments/assets/47e57ca4-d5ff-48aa-95f2-c4786ee72d74" /># Hybrid Reinforcement Learning and Forecast-Based Solar Battery Scheduling  
+# Hybrid Reinforcement Learning and Forecast-Based Solar Battery Scheduling  
 **Team:** Solaris Nexus: where solar energy meets global sustainability  
 **Team Members:** Rishith S., Favour T., Yelyzaveta M., Aaditya K., Jianxin Y., Hridhaan B.  
-**Challenge:** NYAS Junior Academy – Renewable Energy Innovation (2025)
+**Challenge:** NYAS Junior Academy – Energy Infrastructure: Solar Power (2025)
 
 ---
 
@@ -55,15 +55,16 @@ The dataset combines inverter-level generation data with weather sensor readings
 - Approximately 96 percent reduction in grid import relative to the baseline.  
 - Increased battery cycling observed, highlighting the trade-off between energy independence and battery longevity.
 
-Figures:
-- PV Forecast vs. Actual Output
-<img width="2370" height="1020" alt="download (2)" src="https://github.com/user-attachments/assets/ab0f8887-f3ef-400e-ad8f-75e08c4fb449" />
-- Grid Energy Import Comparison
+## Figures
 
-<img width="1710" height="1170" alt="download" src="https://github.com/user-attachments/assets/8277bbf5-71bc-4433-bfce-9aa0a4a07c0b" />
+**PV Forecast vs. Actual Output**  
+<img width="700" alt="PV Forecast vs Actual Output" src="https://github.com/user-attachments/assets/ab0f8887-f3ef-400e-ad8f-75e08c4fb449" />
 
-- Battery Cycling Comparison
-<img width="1710" height="1170" alt="download (1)" src="https://github.com/user-attachments/assets/900ddd06-45a8-4ee3-aa0f-8eeb52da7f77" />
+**Grid Energy Import Comparison**  
+<img width="500" alt="Grid Energy Import Comparison" src="https://github.com/user-attachments/assets/8277bbf5-71bc-4433-bfce-9aa0a4a07c0b" />
+
+**Battery Cycling Comparison**  
+<img width="500" alt="Battery Cycling Comparison" src="https://github.com/user-attachments/assets/900ddd06-45a8-4ee3-aa0f-8eeb52da7f77" />
 
 
 
